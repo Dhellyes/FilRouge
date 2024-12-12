@@ -17,6 +17,11 @@ Ce projet est un micro-framework PHP léger qui permet de développer des applic
    ```bash
    composer install
    ```
+   Pour webpack
+    ````bash
+    npm install
+    `````
+
 3. Configurez le fichier `.env` à la racine du projet (voir la section **Configuration** ci-dessous).
 
 ---
